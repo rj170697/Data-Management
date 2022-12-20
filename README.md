@@ -1,9 +1,9 @@
 # Data Analysis and Machine learning
 It includes 2 data science projects well known possum project and Housing project.
-Coding is done in jupyter notebook
-Its part of Masters Curriculum subject Introduction to data science and Artificial Intelligence
+Coding is done in jupyter notebook.
+Its part of Masters Curriculum of subject Introduction to data science and Artificial Intelligence.
 
-libraries used are Pandas, Matplotlib and Seaborn
+libraries used are Pandas, Matplotlib and Seaborn.
 
 Housing Project
 12 attribute
